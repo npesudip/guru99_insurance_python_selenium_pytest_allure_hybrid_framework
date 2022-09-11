@@ -1,0 +1,15 @@
+
+requirements
+- python
+- selenium packages
+- Pytest
+- Pytest-HTML,
+- pytest xdist
+- openpyxl
+- pytest allure
+
+
+Test Scenarios :
+1. Login/logout
+2. Request and Retrive Quotation
+3. View and Edit Profile

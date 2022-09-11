@@ -1,0 +1,2 @@
+class PageElementsCollections:
+    pass
